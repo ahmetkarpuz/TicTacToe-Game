@@ -209,7 +209,6 @@ if(answer==1)
 else if(answer==0)
 {
 cout<<"Oyun sona ermistir. Oynadiginiz icin tesekkur ederiz."<<endl;
-cout<<"Bu oyunu hazirlayanlar:"<<endl<<"Bengu Demiregen"<<endl<<"Kaan Irmak"<<endl<<"Ahmet Karpuz"<<endl<<endl;
 }
 //Tuşladığınız rakam 0 ise oyun sonlandırılır ve bu oyunu hazırlayan kişilerin isimleri ekrana yazdırılır.
 else
